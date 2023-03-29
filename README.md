@@ -14,7 +14,7 @@
 git clone https://github.com/leejamesss/Python-Data-Analysis.git
 
 
-2. 安装所需的Python包：
+2. 安装所需的Python包
 
 
 
